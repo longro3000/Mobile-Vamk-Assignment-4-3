@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment_4_3</string>
+    <string name="number_1">Number 1:</string>
+    <string name="number_2">Number 2:</string>
+    <string name="button_add">Add + </string>
+    <string name="button_subtract">Subtract - </string>
+    <string name="button_multiply">Multiply X </string>
+    <string name="button_divide">Divide  /  </string>
+    <string name="result_label">Result: </string>
+</resources>
